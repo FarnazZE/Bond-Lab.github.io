@@ -1621,6 +1621,12 @@ input, select, textarea {
 			margin: 0 0 2em 0;
 		}
 
+		.image.featured8 {
+			display: block;
+			width: 20%;
+			margin: 0 2em 2em 12em;
+		}
+
 /* Button */
 
 	input[type="button"],
