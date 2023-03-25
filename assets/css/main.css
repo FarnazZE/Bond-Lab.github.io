@@ -98,7 +98,7 @@ input, select, textarea {
 	}
 
 	body, input, textarea, select {
-		font-family: 'Source Sans Pro', sans-serif;
+		font-family: "Font Awesome 5 Free";
 		font-weight: 400;
 		color: #080808;
 		font-size: 14pt;
@@ -130,8 +130,9 @@ input, select, textarea {
 		}
 
 	strong, b {
-		font-weight: 700;
-		color: #080808;
+		font-weight: 600;
+		color: #f8f0f0;
+		font-size: 1.2em;
 	}
 
 	blockquote {
@@ -1527,7 +1528,7 @@ input, select, textarea {
 		display: block;
 		border: 0;
 		background: rgb(7, 7, 7);
-		box-shadow: inset 0px 0px 1px 0px #a0a1a7;
+		box-shadow: inset 0px 0px 1px 0px #070707;
 		border-radius: 0.35em;
 		width: 100%;
 		padding: 0.75em 1em 0.75em 1em;
@@ -1919,7 +1920,7 @@ input, select, textarea {
 		}
 
 		.icon.brands:before {
-			font-family: 'Font Awesome 5 Brands';
+			font-family: 'Font Awesome 5 Free';
 		}
 
 /* Box */
@@ -2147,7 +2148,7 @@ input, select, textarea {
 					color: rgba(7, 7, 7, 0.75);
 					text-transform: uppercase;
 					text-decoration: none;
-					font-size: 0.7em;
+					font-size: 1em;
 					letter-spacing: 0.25em;
 					height: 5em;
 					line-height: 5em;
