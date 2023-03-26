@@ -130,9 +130,9 @@ input, select, textarea {
 		}
 
 	strong, b {
-		font-weight: 600;
+		font-weight: 250;
 		color: #f8f0f0;
-		font-size: 1.2em;
+		font-size: 1.1em;
 	}
 
 	blockquote {
@@ -1865,9 +1865,9 @@ input, select, textarea {
 		}
 
 		.feature-list h3 {
-			color: #070707 !important;
+			color: #680404 !important;
 			margin: -0.35em 0 0.75em 0;
-			font-size: 1.15em;
+			font-size: 1.4em;
 			letter-spacing: 0.05em;
 		}
 
@@ -2135,7 +2135,7 @@ input, select, textarea {
 
 		#nav > ul {
 			display: inline-block;
-			border-radius: 0.75em;
+			border-radius: 0.35em;
 			box-shadow: inset 0px 0px 1px 1px rgba(2, 2, 2, 0.25);
 			padding: 0 2.5em 0 2.5em;
 		}
@@ -2156,7 +2156,7 @@ input, select, textarea {
 					color: rgba(7, 7, 7, 0.75);
 					text-transform: uppercase;
 					text-decoration: none;
-					font-size: 1.2em;
+					font-size: 1em;
 					letter-spacing: 0.25em;
 					height: 5em;
 					line-height: 5em;
