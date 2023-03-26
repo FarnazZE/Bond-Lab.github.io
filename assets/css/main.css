@@ -122,7 +122,7 @@ input, select, textarea {
 		-ms-transition: color .25s ease-in-out;
 		transition: color .25s ease-in-out;
 		text-decoration: underline;
-		color: #070707;
+		color: #103bc7;
 	}
 
 		a:hover {
@@ -1626,6 +1626,14 @@ input, select, textarea {
 			display: block;
 			width: 20%;
 			margin: 0 2em 2em 12em;
+			
+		}
+
+		.image.featured2 {
+			display: block;
+			width: 70%;
+			margin: 0 0em 2em 0em;
+			
 		}
 
 /* Button */
@@ -1646,7 +1654,7 @@ input, select, textarea {
 		font-weight: 700;
 		letter-spacing: 0.25em;
 		text-decoration: none;
-		border-radius: 0.8em;
+		border-radius: 0.35em;
 		border: 0;
 		outline: 0;
 		cursor: pointer;
