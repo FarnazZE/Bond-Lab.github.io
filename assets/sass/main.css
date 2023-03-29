@@ -1951,7 +1951,7 @@ ul.actions.special {
   position: absolute;
   display: block;
   top: 2.5em;
-  left: 0;
+  left:0;
   width: 100%;
   text-align: center;
 }
@@ -1980,7 +1980,7 @@ ul.actions.special {
   color: rgba(255, 255, 255, 0.75);
   text-transform: uppercase;
   text-decoration: none;
-  font-size: 0.7em;
+  font-size: 0.6em;
   letter-spacing: 0.25em;
   height: 5em;
   line-height: 5em;
@@ -2051,7 +2051,7 @@ ul.actions.special {
 }
 
 #intro p.style1 {
-  font-size: 1.5em;
+  font-size: 1.3em;
   letter-spacing: 0.075em;
 }
 
