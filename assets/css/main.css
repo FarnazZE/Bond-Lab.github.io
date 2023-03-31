@@ -1633,7 +1633,7 @@ input, select, textarea {
 		.image.featured8 {
 			display: block;
 			width: 20%;
-			margin: 0 2em 2em 12em;
+			margin: 0em 2em 4em 2em;
 			
 		}
 
@@ -2152,6 +2152,8 @@ input, select, textarea {
 				display: inline-block;
 				text-align: right;
 				padding: 0 1.5em 0 2.5em;
+				margin-left: 2em;
+				margin-top: 1em;
 			}
 
 				#nav > ul > li > ul {
