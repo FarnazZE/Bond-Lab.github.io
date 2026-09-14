@@ -1628,14 +1628,14 @@ input, select, textarea {
     height: 150px !important;
     display: inline-block !important;
     overflow: hidden !important;
-    border-radius: 50% !important;
+    border-radius: 1000% !important;
 }
 
 .image.featured6 img {
     width: 150px !important;
     height: 150px !important;
     object-fit: cover !important;
-    border-radius: 50% !important;
+    border-radius: 100% !important;
     display: block !important;
 }
 }
