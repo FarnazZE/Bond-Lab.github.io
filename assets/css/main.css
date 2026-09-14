@@ -1626,7 +1626,7 @@ input, select, textarea {
 .image.featured6 {
     width: 150px;
     height: 150px;
-    border-radius: 50%;
+    border-radius: 100%;
     overflow: hidden;
     display: block;
 }
