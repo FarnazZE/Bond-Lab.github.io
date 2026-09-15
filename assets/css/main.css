@@ -234,7 +234,7 @@ input, select, textarea {
 
 		.row.aln-left {
     display: flex;
-    gap: 50px;
+    gap: 30px;
     align-items: flex-start;
 }
 
