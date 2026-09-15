@@ -1624,18 +1624,25 @@ input, select, textarea {
 				width: auto;
 			}
 .image.featured6 {
-    width: 150px;
-    height: 150px;
-    overflow: hidden;
+    width: 150px !important;
+    height: 150px !important;
+    min-width: 150px !important;
+    min-height: 150px !important;
+    max-width: 150px !important;
+    max-height: 150px !important;
+
     border-radius: 50% !important;
+    overflow: hidden !important;
+    display: inline-block !important;
+    padding: 0 !important;
 }
 
 .image.featured6 img {
-    width: 150px;
-    height: 150px;
-    object-fit: cover;
+    width: 150px !important;
+    height: 150px !important;
+    object-fit: cover !important;
     border-radius: 50% !important;
-    clip-path: circle(50%);
+    display: block !important;
 }
 }
 		.image.featured {
