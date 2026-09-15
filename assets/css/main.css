@@ -1641,6 +1641,7 @@ input, select, textarea {
     width: 150px !important;
     height: 150px !important;
     object-fit: cover !important;
+    object-position: center 20% !important;
     border-radius: 100% !important;
     display: block !important;
 }
