@@ -1623,22 +1623,14 @@ input, select, textarea {
 				margin: 0 auto;
 				width: auto;
 			}
-.image.featured6 {
+.image.featured6 img {
     width: 150px !important;
     height: 150px !important;
-    min-width: 150px !important;
-    min-height: 150px !important;
-    max-width: 150px !important;
-    max-height: 150px !important;
-
+    object-fit: cover !important;
+    object-position: center 50% !important;
     border-radius: 100% !important;
-    overflow: hidden !important;
-    display: inline-block !important;
-    padding: 0 !important;
-
-    margin-top: 40px !important;
+    display: block !important;
 }
-
 .image.featured6 img {
     width: 150px !important;
     height: 150px !important;
