@@ -1635,6 +1635,8 @@ input, select, textarea {
     overflow: hidden !important;
     display: inline-block !important;
     padding: 0 !important;
+
+    margin-top: 15px !important;
 }
 
 .image.featured6 img {
