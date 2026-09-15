@@ -1624,12 +1624,12 @@ input, select, textarea {
 				width: auto;
 			}
 .image.featured6 {
-    width: 150px !important;
-    height: 150px !important;
-    min-width: 150px !important;
-    min-height: 150px !important;
-    max-width: 150px !important;
-    max-height: 150px !important;
+    width: 200px !important;
+    height: 200px !important;
+    min-width: 200px !important;
+    min-height: 200px !important;
+    max-width: 200px !important;
+    max-height: 200px !important;
 
     border-radius: 100% !important;
     overflow: hidden !important;
