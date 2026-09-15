@@ -1623,7 +1623,7 @@ input, select, textarea {
 				margin: 0 auto;
 				width: auto;
 			}
-.image.featured6 img {
+.image.featured6 {
     width: 150px !important;
     height: 150px !important;
     object-fit: cover !important;
